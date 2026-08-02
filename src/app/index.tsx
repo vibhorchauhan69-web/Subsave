@@ -1,5 +1,5 @@
-import LoginScreen from "../screens/LoginScreen";
+import AddSubscriptionScreen from "../screens/AddSubscriptionScreen";
 
 export default function HomeScreen() {
-  return <LoginScreen />;
+  return <AddSubscriptionScreen />;
 }
